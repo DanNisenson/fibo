@@ -1,6 +1,6 @@
 # Rust fun
 
-cargo new <project_name>
+cargo new <project_name> \n
 cargo build
 cargo run
 
